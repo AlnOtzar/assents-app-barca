@@ -1,0 +1,9 @@
+[
+  {
+    "nombre": "Troll Face",
+    "dorsal": 10,
+    "posicion": "Delantero",
+    "nacionalidad": "España chaval",
+    "edad": 18,
+    "imagenUrl": "https://raw.githubusercontent.com/AlnOtzar/assents-app-barca/main/persona1.jpg"
+  }
