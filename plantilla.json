@@ -5,15 +5,15 @@
     "posicion": "Delantero",
     "nacionalidad": "España chaval",
     "edad": 18,
-    "imagenUrl": "https://raw.githubusercontent.com/AlnOtzar/assents-app-barc>
-  }
+    "imagenUrl": "https://github.com/AlnOtzar/assents-app-barca/blob/main/persona1.jpg?raw=true"
+  },
   {
     "nombre": "Wojciech Szczesny",
     "dorsal": 25,
     "posicion": "Portero",
     "nacionalidad": "Polonia",
     "edad": 34,
-    "imagenUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/szczesny.png"
+    "imagenUrl": "https://github.com/AlnOtzar/assents-app-barca/blob/main/persona2.jpg?raw=true"
   },
   {
     "nombre": "Lamine Yamal",
@@ -21,6 +21,6 @@
     "posicion": "Delantero",
     "nacionalidad": "España",
     "edad": 17,
-    "imagenUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/yamal.png"
+    "imagenUrl": "https://github.com/AlnOtzar/assents-app-barca/blob/main/persona3.jpg?raw=true"
   }
 ]
