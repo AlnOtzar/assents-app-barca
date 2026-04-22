@@ -1,9 +1,26 @@
 [
-  {
+ {
     "nombre": "Troll Face",
     "dorsal": 10,
     "posicion": "Delantero",
     "nacionalidad": "España chaval",
     "edad": 18,
-    "imagenUrl": "https://raw.githubusercontent.com/AlnOtzar/assents-app-barca/main/persona1.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/AlnOtzar/assents-app-barc>
   }
+  {
+    "nombre": "Wojciech Szczesny",
+    "dorsal": 25,
+    "posicion": "Portero",
+    "nacionalidad": "Polonia",
+    "edad": 34,
+    "imagenUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/szczesny.png"
+  },
+  {
+    "nombre": "Lamine Yamal",
+    "dorsal": 19,
+    "posicion": "Delantero",
+    "nacionalidad": "España",
+    "edad": 17,
+    "imagenUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/yamal.png"
+  }
+]
